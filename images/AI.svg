@@ -1,0 +1,11 @@
+<svg id="AI" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="189.996" height="189.997" viewBox="0 0 189.996 189.997">
+  <defs>
+    <radialGradient id="radial-gradient" cx="50.518" cy="21.654" r="199.32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f69f1f"/>
+      <stop offset="0.544" stop-color="#e27a26"/>
+      <stop offset="1" stop-color="#d55f27"/>
+    </radialGradient>
+  </defs>
+  <rect id="Rectangle_16" data-name="Rectangle 16" width="189.996" height="189.997" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+  <text id="Ai-2" data-name="Ai" transform="translate(48.971 130.001)" fill="#fff" font-size="115" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">Ai</tspan></text>
+</svg>
