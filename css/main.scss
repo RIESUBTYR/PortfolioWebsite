@@ -439,6 +439,28 @@ section{
             text-decoration: underline;
         }
     }
+
+    .Resume{
+        a{
+            img
+            {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width:25%;
+            }
+            
+            .Download
+            {
+                margin-left: auto;
+                margin-right: auto;
+                font-size:4vw;
+                color: #FFFFFF;
+            }
+        }
+    }
+
+
 }
 
 
@@ -670,6 +692,23 @@ section{
             font-size:2vw;
         }
 
+        .Resume{
+            a{
+                img
+                {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width:15%;
+                }
+                
+                .Download
+                {
+                    font-size:2.5vw;
+                    color: #FFFFFF;
+                }
+            }
+        }
 
     }
 
@@ -750,6 +789,28 @@ section{
         margin-top:15%;
         width:100%
     }
+
+    .about{
+        .Resume{
+            a{
+                img
+                {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width:10%;
+                }
+                
+                .Download
+                {
+                    font-size:1.5vw;
+                    color: #FFFFFF;
+                }
+            }
+        }
+    }
+
+
 
     .footer{
     footer{

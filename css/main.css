@@ -449,6 +449,20 @@ section {
   text-decoration: underline;
 }
 
+.about .Resume a img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.about .Resume a .Download {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 4vw;
+  color: #FFFFFF;
+}
+
 .footer {
   background: #0873C8;
 }
@@ -637,6 +651,16 @@ section {
     text-align: left;
     font-size: 2vw;
   }
+  .about .Resume a img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+  .about .Resume a .Download {
+    font-size: 2.5vw;
+    color: #FFFFFF;
+  }
 }
 
 @media only screen and (min-width: 1050px) {
@@ -704,6 +728,16 @@ section {
     margin-left: -50%;
     margin-top: 15%;
     width: 100%;
+  }
+  .about .Resume a img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
+  .about .Resume a .Download {
+    font-size: 1.5vw;
+    color: #FFFFFF;
   }
   .footer footer {
     display: -ms-grid;
